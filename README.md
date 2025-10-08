@@ -6,5 +6,3 @@
 
 [![wakatime](https://wakatime.com/badge/user/018b8a65-8d4e-4388-af40-80560a767e4b.svg)](https://wakatime.com/@018b8a65-8d4e-4388-af40-80560a767e4b)
 </div>
-
----
